@@ -2,6 +2,54 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ShortcutPanelFIles",
+            "request": "launch",
+            "mainClass": "ShortcutPanelFIles"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShortcutPanelFiles",
+            "request": "launch",
+            "mainClass": "ShortcutPanelFiles"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex3ExceptionallyCompose",
+            "request": "launch",
+            "mainClass": "Ex3ExceptionallyCompose"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex1ExceptionallyAsync",
+            "request": "launch",
+            "mainClass": "Ex1ExceptionallyAsync"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MismatchNonIdentical",
+            "request": "launch",
+            "mainClass": "MismatchNonIdentical"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MismatchIdentiticalContent",
+            "request": "launch",
+            "mainClass": "MismatchIdentiticalContent"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TeeingExample2",
+            "request": "launch",
+            "mainClass": "TeeingExample2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TeeingExample",
+            "request": "launch",
+            "mainClass": "TeeingExample"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - VarInLambda",
             "request": "launch",
             "mainClass": "VarInLambda"
